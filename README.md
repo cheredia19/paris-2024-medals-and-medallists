@@ -1,6 +1,6 @@
 ---
-title: Welcome to your template dataset page!
-description: This is a template for publishing your dataset with Datahub Cloud.
+title: All the medals of the Paris 2024 Summer Olympic Games
+description: ...
 created: 2024-08-16
 updated: 2024-08-16
 ---
