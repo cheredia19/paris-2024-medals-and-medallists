@@ -32,9 +32,9 @@ updated: 2024-08-17
 
  <PlotlyBarChart
   data={{
-    url: 'all_birth_dates.csv'
+    url: 'every_medallists.csv'
   }}
   title=""
   xAxis="birth_date"
-  yAxis="number"
+  yAxis="birth_date"
 />
