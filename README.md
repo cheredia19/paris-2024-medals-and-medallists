@@ -21,20 +21,11 @@ updated: 2024-08-17
   }}
  />
 
- <LineChart
+ <PlotlyBarChart
   data={{
-    url: 'birth_dates.csv'
+    url: 'all_birth_dates.csv'
   }}
   title=""
   xAxis="birth_date"
   yAxis="number"
-/>
-
- <PlotlyBarChart
-  data={{
-    url: 'every_medallists.csv'
-  }}
-  title=""
-  xAxis="birth_date"
-  yAxis="birth_date"
 />
