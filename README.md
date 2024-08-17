@@ -29,3 +29,12 @@ updated: 2024-08-17
   xAxis="birth_date"
   yAxis="number"
 />
+
+ <PlotlyLineChart
+  data={{
+    url: 'birth_year.csv'
+  }}
+  title=""
+  xAxis="birth_year"
+  yAxis="number"
+/>
