@@ -21,12 +21,12 @@ updated: 2024-08-17
   }}
  />
 
- <LineChart
+ <PlotlyBarChart
   data={{
-    url: ''
+    url: 'birth_date.csv'
   }}
   title=""
-  xAxis=""
-  yAxis=""
+  xAxis="birth_date"
+  yAxis="number"
 />
 
