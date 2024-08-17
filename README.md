@@ -30,7 +30,7 @@ updated: 2024-08-17
   yAxis="number"
 />
 
- <PlotlyLineChart
+ <PlotlyBarChart
   data={{
     url: 'birth_year.csv'
   }}
