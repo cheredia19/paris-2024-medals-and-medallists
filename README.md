@@ -30,3 +30,11 @@ updated: 2024-08-17
   yAxis="number"
 />
 
+ <PlotlyBarChart
+  data={{
+    url: 'all_birth_dates.csv'
+  }}
+  title=""
+  xAxis="birth_date"
+  yAxis="number"
+/>
