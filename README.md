@@ -21,7 +21,7 @@ updated: 2024-08-17
   }}
  />
 
- <PlotlyLineChart
+ <LineChart
   data={{
     url: 'birth_dates.csv'
   }}
