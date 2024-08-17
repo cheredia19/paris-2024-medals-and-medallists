@@ -21,7 +21,7 @@ updated: 2024-08-17
   }}
  />
 
- <PlotlyBarChart
+ <PlotlyLineChart
   data={{
     url: 'birth_date.csv'
   }}
