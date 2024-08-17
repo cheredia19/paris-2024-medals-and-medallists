@@ -23,7 +23,7 @@ updated: 2024-08-17
 
  <PlotlyLineChart
   data={{
-    url: 'birth_date.csv'
+    url: 'birth_dates.csv'
   }}
   title=""
   xAxis="birth_date"
