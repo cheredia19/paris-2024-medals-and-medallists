@@ -9,7 +9,7 @@ updated: 2024-08-17
 
 <FlatUiTable
   data={{
-    url: 'every_medal.csv'
+    url: 'every_medals.csv'
   }}
  />
 
