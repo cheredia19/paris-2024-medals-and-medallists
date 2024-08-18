@@ -59,7 +59,7 @@ More than half of the 51 most decorated athletes at the Paris 2024 Olympic Games
   yAxis="number"
 />
 
-The fourteen American athletes that won the most medals earned 75% of the 40 golds the United States clinched in Paris 2024, while the 12 top Chinese performers contributed 55% of the gold medals. 
+The fourteen American athletes that won the most medals earned 75% of the [40 golds the United States clinched in Paris 2024](https://datahub.io/@cheredia19/paris-2024-olympics), while the 12 top Chinese performers contributed 55% of the gold medals.
 
 The percentage contribution of the 51 most decorated athletes of the past Olympic Games to their countries in terms of gold medals was as follows:
 
@@ -86,11 +86,13 @@ The percentage contribution of the 51 most decorated athletes of the past Olympi
   yAxis="gold_medals"
 />
 
+
+
 <PlotlyBarChart
   data={{
     url: 'country_total.csv'
   }}
-  title=""
+  title="Total medals won by the 51 top performers"
   xAxis="country"
   yAxis="total_medals"
 />
