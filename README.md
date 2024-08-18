@@ -113,7 +113,7 @@ In the meantime, the rate contribution of the 51 most winning athletes at Paris 
   yAxis="total_medals"
 />
 
-The table detailing the performance of the most outstanding athletes of the Paris 2024 Olympics is below. It's sorted by gold, silver, bronze, and total medals. The data can be filtered by *athlete name*, number of medals of any denomination, *gender*, *country*, and *discipline*.
+The table detailing the performance of the most outstanding athletes of the Paris 2024 Olympics is below. It's sorted by gold, silver, bronze, and total medals. The data can be filtered and sorted by *athlete name*, number of medals of any denomination, *gender*, *country*, and *discipline*.
 
 <FlatUiTable
   data={{
@@ -122,6 +122,12 @@ The table detailing the performance of the most outstanding athletes of the Pari
  />
 
 ## All the individual and team medal winners
+
+Although this note initially focused on the most prominent athletes in Paris 2024, **participating in an Olympic event is a remarkable achievement**, not to mention winning a medal, no matter which type.
+
+That's why the following two tables are a homage to those who clinched a medal in the 2024 Summer Olympics. 
+
+The first one includes all the individual and team medal winners sorted in descending order by the day of competition. It consists of the medal type (gold, silver, and bronze), name of the individual athlete or team, code of the country, gender, discipline, event, [event type](https://odf.olympictech.org/2024-Paris/codes/HTML/pg_cc/EventUnitType.htm), and the olympics.com URL of the event. 
 
 <FlatUiTable
   data={{
