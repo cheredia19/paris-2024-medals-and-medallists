@@ -22,6 +22,10 @@ One-third of the most decorated athletes in Paris 2024 were **swimmers**. Far be
 
 Gymnast legend [Simone Biles](https://olympics.com/en/athletes/simone-biles) won three golds and a silver. Biles was **the best non-swimmer performer at the Games**. Her 11 Olympic medals confirm her as [the most decorated gymnast in history](https://www.washingtonpost.com/sports/olympics/2024/08/01/simone-biles-olympic-medals-count/).
 
+## Top athletes by sport
+
+Besides Marchand and Biles, the three golds clinched by Dutch [Harrie Lavreysen](https://olympics.com/en/athletes/harrie-lavreysen) made him the most winning cyclist. South Korean female archers [Woojin Kim](https://olympics.com/en/athletes/woojin-kim) and [Sihyeon Lim](https://olympics.com/en/athletes/sihyeon-lim) and sprint canoeist [Lisa Carrington](https://olympics.com/en/athletes/lisa-carrington) were the top performers in their respective disciplines (three gold medals each).
+
 ## Most decorated athletes
 
 <PlotlyBarChart
