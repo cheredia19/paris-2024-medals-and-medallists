@@ -3,6 +3,14 @@ title: All the medals of the Paris 2024 Summer Olympic Games
 description: ...
 ---
 
+The six medals won by Chinese swimmer [Yufei Zhang](https://olympics.com/en/athletes/yufei-zhang) at the Paris 2024 Summer Olympic Games made her the most decorated athlete in the competition. However, she wasn't even in the top 50 of the athlete's medal table because none of those medals were gold.
+
+The top performer in Paris 2024 was [Leon Marchand](https://olympics.com/en/athletes/leon-marchand). The French swimmer clinched four golds and a bronze medal. 
+
+American [Torri Huske](https://olympics.com/en/athletes/leon-marchand) and Australian [Mollie O'Callaghan](https://olympics.com/en/athletes/mollie-o-callaghan), swimmers, won three gold medals each. Huske added two silvers, while O'Callaghan clinched a silver and a bronze medal. 
+
+Gymnast legend [Simone Biles](https://olympics.com/en/athletes/simone-biles) won three golds and a silver. Biles was the best non-swimmer performer at the Games. Her 11 Olympic medals make her [the most decorated gymnast in history](https://www.washingtonpost.com/sports/olympics/2024/08/01/simone-biles-olympic-medals-count/).
+
 ## Most decorated athletes
 
 <PlotlyBarChart
