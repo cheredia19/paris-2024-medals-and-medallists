@@ -16,6 +16,15 @@ updated: 2024-08-17
   yAxis="number"
 />
 
+<PlotlyBarChart
+  data={{
+    url: 'country_golds.csv'
+  }}
+  title=""
+  xAxis="country"
+  yAxis="gold_medals"
+/>
+
 ## All the individual and team medal winners
 
 <FlatUiTable
