@@ -32,6 +32,15 @@ description: ...
   yAxis="total_medals"
 />
 
+<PlotlyBarChart
+  data={{
+    url: 'discipline_athletes.csv'
+  }}
+  title=""
+  xAxis="discipline"
+  yAxis="pct_athletes"
+/>
+
 ## All the individual and team medal winners
 
 <FlatUiTable
