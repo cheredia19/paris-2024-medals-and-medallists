@@ -137,10 +137,10 @@ The first one includes all the individual and team medal winners sorted in desce
 
 The second table includes the individual athletes who earned medals in team events, for example, [Kevin Durant](https://olympics.com/en/athletes/kevin-durant), who clinched his fourth gold medal with the basketball **Team USA**. It also details the birth date of each medal-winning athlete.
 
+Speaking of birth dates, the age difference between the [oldest](https://olympics.com/en/athletes/laura-kraut) and the [youngest](https://olympics.com/en/athletes/arisa-trew) medal winner at Paris 2024 is roughly 44,5 years (exactly **16,250 days**). American equestrian **Laura Kraut** is 58, while Australian skateboarder **Alisa Trew** is just 14.
+
  <FlatUiTable
   data={{
     url: 'every_medallists.csv'
   }}
  />
-
-Speaking of birth dates, the age difference between the [oldest](https://olympics.com/en/athletes/laura-kraut) and the [youngest](https://olympics.com/en/athletes/arisa-trew) medal winner at Paris 2024 is roughly 44,5 years (exactly **16,250 days**). American equestrian **Laura Kraut** is 58, while Australian skateboarder **Alisa Trew** is just 14.
