@@ -42,19 +42,19 @@ More than half of the 51 most decorated athletes at the Paris 2024 Olympic Games
 - Germany: [Jacob Schopf](https://olympics.com/en/athletes/jacob-schopf), [Max Lemke](https://olympics.com/en/athletes/max-lemke) (canoe sprint), and Jessica von Bredow-Werndl (equestrian) (2G each)
 - France: Leon Marchand (swimming, 4G, 1B)
 - Sweden: [Sarah Sjoestroem](https://olympics.com/en/athletes/sarah-sjoestroem) (swimming, 2G)
-Philippines: [Carlos Edriel Yulo](https://olympics.com/en/athletes/carlos-edriel-yulo) (artistic gymnastics, 2G)
-Netherlands: Harrie Lavreysen (cycling track, 3G)
-Kenya: [Beatrice Chebet](https://olympics.com/en/athletes/beatrice-chebet) (athletics, 2G)
-Japan: Shunnosuke Oka (artistic gymnastics, 3G, 1B)
-Canada: [Summer McIntosh](https://olympics.com/en/athletes/summer-mcintosh) (swimming, 3G, 1S)
-Brazil: [Rebeca Andrade](https://olympics.com/en/athletes/rebeca-andrade) (artistic gymnastics, 1G, 2S, 1B)
-Belgium: [Remco Evenepoel](https://olympics.com/en/athletes/remco-evenepoel) (cycling road, 2G)
+- Philippines: [Carlos Edriel Yulo](https://olympics.com/en/athletes/carlos-edriel-yulo) (artistic gymnastics, 2G)
+- Netherlands: Harrie Lavreysen (cycling track, 3G)
+- Kenya: [Beatrice Chebet](https://olympics.com/en/athletes/beatrice-chebet) (athletics, 2G)
+- Japan: Shunnosuke Oka (artistic gymnastics, 3G, 1B)
+- Canada: [Summer McIntosh](https://olympics.com/en/athletes/summer-mcintosh) (swimming, 3G, 1S)
+- Brazil: [Rebeca Andrade](https://olympics.com/en/athletes/rebeca-andrade) (artistic gymnastics, 1G, 2S, 1B)
+- Belgium: [Remco Evenepoel](https://olympics.com/en/athletes/remco-evenepoel) (cycling road, 2G)
 
 <PlotlyBarChart
   data={{
     url: 'country_number.csv'
   }}
-  title=""
+  title="Which country did the top athletes in Paris 2024 represent?"
   xAxis="country"
   yAxis="number"
 />
