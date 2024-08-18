@@ -5,6 +5,17 @@ created: 2024-08-16
 updated: 2024-08-17
 ---
 
+## Most decorated athletes
+
+<PlotlyBarChart
+  data={{
+    url: 'country_number.csv'
+  }}
+  title=""
+  xAxis="country"
+  yAxis="number"
+/>
+
 ## All the individual and team medal winners
 
 <FlatUiTable
