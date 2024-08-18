@@ -48,7 +48,7 @@ Kenya: [Beatrice Chebet](https://olympics.com/en/athletes/beatrice-chebet) (athl
 Japan: Shunnosuke Oka (artistic gymnastics, 3G, 1B)
 Canada: [Summer McIntosh](https://olympics.com/en/athletes/summer-mcintosh) (swimming, 3G, 1S)
 Brazil: [Rebeca Andrade](https://olympics.com/en/athletes/rebeca-andrade) (artistic gymnastics, 1G, 2S, 1B)
-Belgium: [Remco Evenepoel](https://olympics.com/en/athletes/sarah-sjoestroemhttps://olympics.com/en/athletes/remco-evenepoel) (cycling road, 2G)
+Belgium: [Remco Evenepoel](https://olympics.com/en/athletes/remco-evenepoel) (cycling road, 2G)
 
 <PlotlyBarChart
   data={{
