@@ -26,6 +26,8 @@ Gymnast legend [Simone Biles](https://olympics.com/en/athletes/simone-biles) won
 
 Besides Marchand and Biles, the three golds clinched by Dutch [Harrie Lavreysen](https://olympics.com/en/athletes/harrie-lavreysen) made him the most winning cyclist. South Korean archers [Woojin Kim](https://olympics.com/en/athletes/woojin-kim) and [Sihyeon Lim](https://olympics.com/en/athletes/sihyeon-lim) and sprint canoeist [Lisa Carrington](https://olympics.com/en/athletes/lisa-carrington) were the top performers in their respective disciplines (three gold medals each).
 
+**Table tennis** player [Yingsha Sun](https://olympics.com/en/athletes/yingsha-sun) clinched two gold medals and a silver, while Chinese [Yiwen Chen](https://olympics.com/en/athletes/yiwen-chen) and [Hongchan Quan](https://olympics.com/en/athletes/hongchan-quan), with two golds each, topped **diving**.
+
 ## Most decorated athletes
 
 <PlotlyBarChart
