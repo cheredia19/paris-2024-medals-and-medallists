@@ -143,20 +143,23 @@ The second table includes the individual athletes who earned medals in team even
   }}
  />
 
- <PlotlyLineChart
-  data={{
-    url: 'all_birth_dates.csv'
-  }}
-  title=""
-  xAxis="birth_date"
-  yAxis="number"
-/>
+Speaking of birth dates, the age difference between the [oldest](https://olympics.com/en/athletes/laura-kraut) and the [youngest](https://olympics.com/en/athletes/ariza-trew) medal winner at Paris 2024 is roughly 44,5 years (exactly **16,250 days**).
 
- <PlotlyBarChart
+<PlotlyBarChart
   data={{
     url: 'birth_year.csv'
   }}
   title=""
   xAxis="birth_year"
+  yAxis="number"
+/>
+
+
+<PlotlyLineChart
+  data={{
+    url: 'all_birth_dates.csv'
+  }}
+  title=""
+  xAxis="birth_date"
   yAxis="number"
 />
