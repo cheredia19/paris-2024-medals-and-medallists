@@ -135,7 +135,7 @@ The first one includes all the individual and team medal winners sorted in desce
   }}
  />
 
- ## All the medallists (individual and team members)
+The second table includes the individual athletes who earned medals in team events, for example, [Kevin Durant](https://olympics.com/en/athletes/kevin-durant), who clinched his fourth gold medal with the basketball Team USA. It also details the birth date of each medal-winning athlete.
 
  <FlatUiTable
   data={{
