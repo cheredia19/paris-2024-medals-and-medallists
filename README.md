@@ -68,20 +68,20 @@ The percentage contribution of the 51 most decorated athletes of the past Olympi
 - New Zealand: 70%
 - Germany: 50%
 - France: 37.5%
-- Sweden:
-- Phiippines:
-- Netherlands:
-- Kenya:
-- Japan:
-- Canada:
-- Brazil:
-- Belgium:
+- Netherlands: 20%
+- Japan: 15%
+- Canada: 33.3%
+- Sweden: 50%
+- Phiippines: 100%
+- Kenya: 50%
+- Belgium: 66.7%
+- Brazil: 33.3%
 
 <PlotlyBarChart
   data={{
     url: 'country_golds.csv'
   }}
-  title=""
+  title="Number of golds won by the 51 top medal winners"
   xAxis="country"
   yAxis="gold_medals"
 />
