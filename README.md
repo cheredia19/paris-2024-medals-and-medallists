@@ -144,3 +144,5 @@ Speaking of birth dates, the age difference between the [oldest](https://olympic
     url: 'every_medallists.csv'
   }}
  />
+
+Remember that the data of the three tables in this note can be downloaded (even the filtered data) in CSV and JSON formats.
