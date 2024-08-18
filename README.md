@@ -1,8 +1,6 @@
 ---
 title: All the medals of the Paris 2024 Summer Olympic Games
 description: ...
-created: 2024-08-16
-updated: 2024-08-17
 ---
 
 ## Most decorated athletes
@@ -23,6 +21,15 @@ updated: 2024-08-17
   title=""
   xAxis="country"
   yAxis="gold_medals"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'country_total.csv'
+  }}
+  title=""
+  xAxis="country"
+  yAxis="total_medals"
 />
 
 ## All the individual and team medal winners
