@@ -59,6 +59,24 @@ More than half of the 51 most decorated athletes at the Paris 2024 Olympic Games
   yAxis="number"
 />
 
+The fourteen American athletes that won the most medals earned 75% of the 40 golds the United States clinched in Paris 2024, while the 12 top Chinese performers contributed 55% of the gold medals. 
+
+The percentage contribution of the 51 most decorated athletes of the past Olympic Games to their countries in terms of gold medals was as follows:
+
+- Australia: 66.7%
+- South Korea: 61.5%
+- New Zealand: 70%
+- Germany: 50%
+- France: 37.5%
+- Sweden:
+- Phiippines:
+- Netherlands:
+- Kenya:
+- Japan:
+- Canada:
+- Brazil:
+- Belgium:
+
 <PlotlyBarChart
   data={{
     url: 'country_golds.csv'
