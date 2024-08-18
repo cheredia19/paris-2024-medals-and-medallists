@@ -153,7 +153,7 @@ The bar chart below details the number of athletes born each year from 1965 to 2
   data={{
     url: 'birth_year.csv'
   }}
-  title=""
+  title="Year of birth of medal winners at Paris 2024"
   xAxis="birth_year"
   yAxis="number"
 />
@@ -164,7 +164,7 @@ The bar chart below details the number of athletes born each year from 1965 to 2
   data={{
     url: 'all_birth_dates.csv'
   }}
-  title="Year of birth of medal winners at Paris 2024"
+  title=""
   xAxis="birth_date"
   yAxis="number"
 />
