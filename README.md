@@ -143,7 +143,7 @@ The second table includes the individual athletes who earned medals in team even
   }}
  />
 
-Speaking of birth dates, the age difference between the [oldest](https://olympics.com/en/athletes/laura-kraut) and the [youngest](https://olympics.com/en/athletes/ariza-trew) medal winner at Paris 2024 is roughly 44,5 years (exactly **16,250 days**).
+Speaking of birth dates, the age difference between the [oldest](https://olympics.com/en/athletes/laura-kraut) and the [youngest](https://olympics.com/en/athletes/arisa-trew) medal winner at Paris 2024 is roughly 44,5 years (exactly **16,250 days**).
 
 <PlotlyBarChart
   data={{
