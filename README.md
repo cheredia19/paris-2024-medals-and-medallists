@@ -1,6 +1,6 @@
 ---
-title: All the medals of the Paris 2024 Summer Olympic Games
-description: ...
+title: The most decorated athletes at the Paris 2024 Summer Olympic Games
+description: Swimmers, as well as competitors from the United States and China, among others, set the tone at these games. 
 ---
 
 The six medals won by Chinese swimmer [Yufei Zhang](https://olympics.com/en/athletes/yufei-zhang) at the Paris 2024 Summer Olympic Games made her the most decorated athlete in the competition. However, **Zhang wasn't even in the top 50 of the athlete's medal table** because none of those medals were gold.
@@ -135,7 +135,7 @@ The first one includes all the individual and team medal winners sorted in desce
   }}
  />
 
-The second table includes the individual athletes who earned medals in team events, for example, [Kevin Durant](https://olympics.com/en/athletes/kevin-durant), who clinched his fourth gold medal with the basketball Team USA. It also details the birth date of each medal-winning athlete.
+The second table includes the individual athletes who earned medals in team events, for example, [Kevin Durant](https://olympics.com/en/athletes/kevin-durant), who clinched his fourth gold medal with the basketball **Team USA**. It also details the birth date of each medal-winning athlete.
 
  <FlatUiTable
   data={{
@@ -143,28 +143,4 @@ The second table includes the individual athletes who earned medals in team even
   }}
  />
 
-Speaking of birth dates, the age difference between the [oldest](https://olympics.com/en/athletes/laura-kraut) and the [youngest](https://olympics.com/en/athletes/arisa-trew) medal winner at Paris 2024 is roughly 44,5 years (exactly **16,250 days**).  American equestrian Laura Kraut is 58, while Australian skateboarder Alisa Trew is just 14.
-
-Two hundred and five medal-winning athletes were born from 1965 to 1990, 1,530 in the 1990s, and 574 between 2001 and 2010.
-
-The bar chart below details the number of athletes born each year from 1965 to 2010.
-
-<PlotlyBarChart
-  data={{
-    url: 'birth_year.csv'
-  }}
-  title="Year of birth of medal winners at Paris 2024"
-  xAxis="birth_year"
-  yAxis="number"
-/>
-
-
-
-<PlotlyLineChart
-  data={{
-    url: 'all_birth_dates.csv'
-  }}
-  title=""
-  xAxis="birth_date"
-  yAxis="number"
-/>
+Speaking of birth dates, the age difference between the [oldest](https://olympics.com/en/athletes/laura-kraut) and the [youngest](https://olympics.com/en/athletes/arisa-trew) medal winner at Paris 2024 is roughly 44,5 years (exactly **16,250 days**). American equestrian **Laura Kraut** is 58, while Australian skateboarder **Alisa Trew** is just 14.
