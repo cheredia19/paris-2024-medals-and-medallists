@@ -41,6 +41,12 @@ description: ...
   yAxis="pct_athletes"
 />
 
+<FlatUiTable
+  data={{
+    url: 'most_gsb_winning_athletes.csv'
+  }}
+ />
+
 ## All the individual and team medal winners
 
 <FlatUiTable
