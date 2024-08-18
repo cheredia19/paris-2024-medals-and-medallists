@@ -113,6 +113,8 @@ In the meantime, the rate contribution of the 51 most winning athletes at Paris 
   yAxis="total_medals"
 />
 
+The table detailing the performance of the most outstanding athletes of the Paris 2024 Olympics is below. It's sorted by gold, silver, bronze, and total medals. The data can be filtered by *athlete name*, number of medals of any denomination, *gender*, *country*, and *discipline*.
+
 <FlatUiTable
   data={{
     url: 'most_gsb_winning_athletes.csv'
