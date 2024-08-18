@@ -1,0 +1,52 @@
+gold,silver,bronze,total,athlete,gender,country,discipline
+4,0,1,5,MARCHAND Leon,Male,France,Swimming
+3,2,0,5,HUSKE Torri,Female,United States,Swimming
+3,1,1,5,O'CALLAGHAN Mollie,Female,Australia,Swimming
+3,1,0,4,BILES Simone,Female,United States,Artistic Gymnastics
+3,1,0,4,McINTOSH Summer,Female,Canada,Swimming
+3,0,1,4,OKA Shinnosuke,Male,Japan,Artistic Gymnastics
+3,0,0,3,THOMAS Gabrielle,Female,United States,Athletics
+3,0,0,3,LAVREYSEN Harrie,Male,Netherlands,Cycling Track
+3,0,0,3,KIM Woojin,Male,South Korea,Archery
+3,0,0,3,LIM Sihyeon,Female,South Korea,Archery
+3,0,0,3,CARRINGTON Lisa,Female,New Zealand,Canoe Sprint
+2,3,0,5,SMITH Regan,Female,United States,Swimming
+2,2,0,4,TITMUS Ariarne,Female,Australia,Swimming
+2,2,0,4,WALSH Gretchen,Female,United States,Swimming
+2,2,0,4,DOUGLASS Kate,Female,United States,Swimming
+2,1,2,5,MCKEOWN Kaylee,Female,Australia,Swimming
+2,1,1,4,LEDECKY Katie,Female,United States,Swimming
+2,1,0,3,DRESSEL Caeleb,Male,United States,Swimming
+2,1,0,3,ANDREWS Ellesse,Female,New Zealand,Cycling Track
+2,1,0,3,PAN Zhanle,Male,China,Swimming
+2,1,0,3,SUN Yingsha,Female,China,Table Tennis
+2,0,0,2,HOSKIN Alicia,Female,New Zealand,Canoe Sprint
+2,0,0,2,CHEBET Beatrice,Female,Kenya,Athletics
+2,0,0,2,YULO Carlos Edriel,Male,Phiippines,Artistic Gymnastics
+2,0,0,2,CHEN Meng,Female,China,Table Tennis
+2,0,0,2,CHEN Yiwen,Female,China,Diving
+2,0,0,2,FAN Zhendong,Male,China,Table Tennis
+2,0,0,2,SCHOPF Jacob,Male,Germany,Canoe Sprint
+2,0,0,2,VALENTE Jennifer,Female,United States,Cycling Track
+2,0,0,2,FOX Jessica,Female,Australia,Canoe Slalom
+2,0,0,2,von BREDOW-WERNDL Jessica,Female,Germany,Equestrian
+2,0,0,2,FAULKNER Kristen,Female,United States,Cycling Road
+2,0,0,2,KIEFER Lee,Female,United States,Fencing
+2,0,0,2,LEMKE Max,Male,Germany,Canoe Sprint
+2,0,0,2,OH Sanguk,Male,South Korea,Fencing
+2,0,0,2,QUAN Hongchan,Female,China,Diving
+2,0,0,2,BENJAMIN Rai,Male,United States,Athletics
+2,0,0,2,EVENEPOEL Remco,Male,Belgium,Cycling Road
+2,0,0,2,SJOESTROEM Sarah,Female,Sweden,Swimming
+2,0,0,2,JACK Shayna,Female,Australia,Swimming
+2,0,0,2,SHENG Lihao,Male,China,Shooting
+2,0,0,2,McLAUGHLIN-LEVRONE Sydney,Female,United States,Athletics
+2,0,0,2,RINER Teddy,Male,France,Judo
+2,0,0,2,WANG Chuqin,Male,China,Table Tennis
+2,0,0,2,WANG Liuyi,Female,China,Artistic Swimming
+2,0,0,2,WANG Qianyi,Female,China,Artistic Swimming
+1,2,1,4,ANDRADE Rebeca,Female,Brazil,Artistic Gymnastics
+1,2,0,3,HARRIS Meg,Female,Australia,Swimming
+1,2,0,3,FINK Nic,Male,United States,Swimming
+1,2,0,3,XU Jiayu,Male,China,Swimming
+1,2,0,3,ZOU Jingyuan,Male,China,Artistic Gymnastics
