@@ -28,7 +28,27 @@ Besides Marchand and Biles, the three golds clinched by Dutch [Harrie Lavreysen]
 
 **Table tennis** player [Yingsha Sun](https://olympics.com/en/athletes/yingsha-sun) clinched two gold medals and a silver, while Chinese [Yiwen Chen](https://olympics.com/en/athletes/yiwen-chen) and [Hongchan Quan](https://olympics.com/en/athletes/hongchan-quan), with two golds each, topped **diving**.
 
-## Most decorated athletes
+German jockey [Jessica von Bredow-Werndl](https://olympics.com/en/athletes/jessica-von-bredow-werndl), fencers [Lee Kiefer](https://olympics.com/en/athletes/lee-kiefer) (USA) and [Sanguk Oh](https://olympics.com/en/athletes/sanguk-oh) (South Korea), and French judoka [Teddy Riner](https://olympics.com/en/athletes/teddy-riner) earned two golds each.
+
+## Top athletes by country
+
+More than half of the 51 most decorated athletes at the Paris 2024 Olympic Games come from the United States or China. 27.5% of the total represented the U.S. and 23.5% China. The best performers by the countries on the list were:
+
+- United States: Torri Huske (swimming, 3G, 2S).
+- China: [Zhanle Pan](https://olympics.com/en/athletes/zhanle-pan) (swimming, 2G, 1S).
+- Australia: Mollie O'Callaghan (swimming, 3G, 1S, 1B)
+- South Korea: Kim Woojin and Lim Sihyeon (archery, 3G each)
+- New Zealand: Lisa Carrington (canoe sprint, 3G)
+- Germany: [Jacob Schopf](https://olympics.com/en/athletes/jacob-schopf), [Max Lemke](https://olympics.com/en/athletes/max-lemke) (canoe sprint), and Jessica von Bredow-Werndl (equestrian) (2G each)
+- France: Leon Marchand (swimming, 4G, 1B)
+- Sweden: [Sarah Sjoestroem](https://olympics.com/en/athletes/sarah-sjoestroem) (swimming, 2G)
+Philippines: [Carlos Edriel Yulo] (artistic gymnastics, 2G)
+Netherlands: Harrie Lavreysen (cycling track, 3G)
+Kenya: Beatrice Chebet (athletics, 2G)
+Japan: Shunnosuke Oka (artistic gymnastics, 3G, 1B)
+Canada: Summer McIntosh (swimming, 3G, 1S)
+Brazil: Rebeca Andrade (artistic gymnastics, 1G, 2S, 1B)
+Belgium: Remco Evenepoel (cycling road, 2G)
 
 <PlotlyBarChart
   data={{
