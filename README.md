@@ -24,7 +24,7 @@ Gymnast legend [Simone Biles](https://olympics.com/en/athletes/simone-biles) won
 
 ## Top athletes by sport
 
-Besides Marchand and Biles, the three golds clinched by Dutch [Harrie Lavreysen](https://olympics.com/en/athletes/harrie-lavreysen) made him the most winning cyclist. South Korean female archers [Woojin Kim](https://olympics.com/en/athletes/woojin-kim) and [Sihyeon Lim](https://olympics.com/en/athletes/sihyeon-lim) and sprint canoeist [Lisa Carrington](https://olympics.com/en/athletes/lisa-carrington) were the top performers in their respective disciplines (three gold medals each).
+Besides Marchand and Biles, the three golds clinched by Dutch [Harrie Lavreysen](https://olympics.com/en/athletes/harrie-lavreysen) made him the most winning cyclist. South Korean archers [Woojin Kim](https://olympics.com/en/athletes/woojin-kim) and [Sihyeon Lim](https://olympics.com/en/athletes/sihyeon-lim) and sprint canoeist [Lisa Carrington](https://olympics.com/en/athletes/lisa-carrington) were the top performers in their respective disciplines (three gold medals each).
 
 ## Most decorated athletes
 
