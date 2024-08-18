@@ -143,7 +143,11 @@ The second table includes the individual athletes who earned medals in team even
   }}
  />
 
-Speaking of birth dates, the age difference between the [oldest](https://olympics.com/en/athletes/laura-kraut) and the [youngest](https://olympics.com/en/athletes/arisa-trew) medal winner at Paris 2024 is roughly 44,5 years (exactly **16,250 days**).
+Speaking of birth dates, the age difference between the [oldest](https://olympics.com/en/athletes/laura-kraut) and the [youngest](https://olympics.com/en/athletes/arisa-trew) medal winner at Paris 2024 is roughly 44,5 years (exactly **16,250 days**).  American equestrian Laura Kraut is 58, while Australian skateboarder Alisa Trew is just 14.
+
+Two hundred and five medal-winning athletes were born from 1965 to 1990, 1530 in the 1990s, and 574 between 2001 and 2010.
+
+The bar chart below details the number of athletes born each year from 1965 to 2010.
 
 <PlotlyBarChart
   data={{
@@ -155,11 +159,12 @@ Speaking of birth dates, the age difference between the [oldest](https://olympic
 />
 
 
+
 <PlotlyLineChart
   data={{
     url: 'all_birth_dates.csv'
   }}
-  title=""
+  title="Year of birth of medal winners at Paris 2024"
   xAxis="birth_date"
   yAxis="number"
 />
